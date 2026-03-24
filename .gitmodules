@@ -4,3 +4,9 @@
 [submodule "Bookinfo-Reviews-Service"]
 	path = Bookinfo-Reviews-Service
 	url = https://github.com/jigneng1/Bookinfo-Reviews-Service.git
+[submodule "Bookinfo-Details-Service"]
+	path = Bookinfo-Details-Service
+	url = https://github.com/jigneng1/Bookinfo-Details-Service.git
+[submodule "Bookinfo-ProductPage-Service"]
+	path = Bookinfo-ProductPage-Service
+	url = https://github.com/jigneng1/Bookinfo-ProductPage-Service.git
