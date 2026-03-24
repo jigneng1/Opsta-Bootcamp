@@ -10,3 +10,6 @@
 [submodule "Bookinfo-ProductPage-Service"]
 	path = Bookinfo-ProductPage-Service
 	url = https://github.com/jigneng1/Bookinfo-ProductPage-Service.git
+[submodule "Bookinfo-Infra"]
+	path = Bookinfo-Infra
+	url = https://github.com/jigneng1/Bookinfo-Infra.git
