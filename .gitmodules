@@ -1,0 +1,3 @@
+[submodule "Bookinfo-Ratings-Service"]
+	path = Bookinfo-Ratings-Service
+	url = https://github.com/jigneng1/Bookinfo-Ratings-Service.git
